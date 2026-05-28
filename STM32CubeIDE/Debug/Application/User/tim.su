@@ -1,0 +1,5 @@
+C:/kdigital/ARM_cortexm4/project_elevater/Src/tim.c:31:6:MX_TIM3_Init	64	static
+C:/kdigital/ARM_cortexm4/project_elevater/Src/tim.c:85:6:MX_TIM11_Init	8	static
+C:/kdigital/ARM_cortexm4/project_elevater/Src/tim.c:111:6:HAL_TIM_Base_MspInit	24	static
+C:/kdigital/ARM_cortexm4/project_elevater/Src/tim.c:145:6:HAL_TIM_MspPostInit	40	static
+C:/kdigital/ARM_cortexm4/project_elevater/Src/tim.c:173:6:HAL_TIM_Base_MspDeInit	16	static

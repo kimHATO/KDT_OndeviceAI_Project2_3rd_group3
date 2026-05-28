@@ -1,0 +1,5 @@
+../Application/User/button.c:32:6:buttonInit	16	static
+../Application/User/button.c:47:6:buttonScan	24	static
+../Application/User/button.c:86:6:buttonWasPressed	16	static
+../Application/User/button.c:102:6:buttonGetToggleState	16	static
+../Application/User/button.c:112:6:buttonSetToggleState	16	static

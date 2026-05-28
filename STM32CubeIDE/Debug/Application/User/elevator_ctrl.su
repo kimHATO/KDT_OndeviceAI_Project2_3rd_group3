@@ -1,0 +1,7 @@
+../Application/User/elevator_ctrl.c:13:16:GetFloorFromButton	16	static
+../Application/User/elevator_ctrl.c:22:13:CheckCallsAhead	24	static
+../Application/User/elevator_ctrl.c:36:13:ClearFloorCallByDirection	32	static
+../Application/User/elevator_ctrl.c:67:6:ElevatorSystem_Init	16	static
+../Application/User/elevator_ctrl.c:80:17:ElevatorSystem_GetDirectionStatus	4	static
+../Application/User/elevator_ctrl.c:84:6:ElevatorSystem_Run	24	static
+../Application/User/elevator_ctrl.c:242:6:ElevatorSystem_PowerTest	32	static

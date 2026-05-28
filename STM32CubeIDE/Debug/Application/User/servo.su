@@ -1,0 +1,5 @@
+../Application/User/servo.c:28:6:Init_Servo	8	static
+../Application/User/servo.c:42:6:OpenDoor	4	static
+../Application/User/servo.c:50:6:CloseDoor	4	static
+../Application/User/servo.c:59:6:ServoStateUpdate	16	static
+../Application/User/servo.c:96:6:IsServoBusy	4	static

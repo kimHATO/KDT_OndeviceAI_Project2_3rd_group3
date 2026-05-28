@@ -1,0 +1,4 @@
+../Application/User/fnd.c:11:13:FND_WriteSegments	1
+../Application/User/fnd.c:28:6:FND_Init	1
+../Application/User/fnd.c:33:6:FND_Clear	1
+../Application/User/fnd.c:44:6:FND_DisplayNumber	11

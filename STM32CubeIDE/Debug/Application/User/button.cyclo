@@ -1,0 +1,5 @@
+../Application/User/button.c:32:6:buttonInit	2
+../Application/User/button.c:47:6:buttonScan	8
+../Application/User/button.c:86:6:buttonWasPressed	3
+../Application/User/button.c:102:6:buttonGetToggleState	2
+../Application/User/button.c:112:6:buttonSetToggleState	2
